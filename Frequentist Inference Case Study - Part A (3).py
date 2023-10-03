@@ -440,7 +440,7 @@ np.std(sample_50, ddof=1)
 1.96 * np.std(sample_50, ddof=1)
 
 
-# 95 confidence interval = -0.18 + or - 0.97
+# 95 confidence interval = -0.18 + or - 1.91
 
 # The true population mean falls into this range
 
